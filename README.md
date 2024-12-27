@@ -1,0 +1,3 @@
+# React Router Dom: Unexpected Behavior with Non-Existent Routes
+
+This repository demonstrates a common issue encountered when using `react-router-dom`, specifically when navigating to routes that are not defined. The application may behave unexpectedly such as showing the wrong page or crashing.  This issue is addressed by implementing error handling and default routes to manage unexpected navigation attempts.
